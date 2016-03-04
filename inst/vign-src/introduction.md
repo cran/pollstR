@@ -128,7 +128,7 @@ The historical estimates of the Huffpost Pollster poll-tracking model are contai
  + geom_line())
 ```
 
-![plot of chunk obama-favorable-chart](assets/obama-favorable-chart-1.png)
+![plot of chunk obama-favorable-chart](inst/vign-src/figures/obama-favorable-chart-1.png)
 
 ## Polls
 
@@ -298,7 +298,7 @@ Now, I can plot the opinion poll results along with the Huffpost Pollster trend 
  )
 ```
 
-![plot of chunk obama-favorable-chart-2](assets/obama-favorable-chart-2-1.png)
+![plot of chunk obama-favorable-chart-2](inst/vign-src/figures/obama-favorable-chart-2-1.png)
 
 <!--  LocalWords:  Huffpost API Huffington CRAN github devtools str
  -->
