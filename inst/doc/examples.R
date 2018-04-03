@@ -1,9 +1,12 @@
 ## ----setup, include=FALSE------------------------------------------------
 knitr::opts_chunk$set(echo = TRUE)
 
-## ------------------------------------------------------------------------
+## ----message=FALSE-------------------------------------------------------
 library("pollstR")
-library("tidyverse")
+library("ggplot2")
+library("dplyr")
+library("tidyr")
+library("purrr")
 
 ## ----message=FALSE-------------------------------------------------------
 slug <- "donald-trump-favorable-rating"
